@@ -4,7 +4,7 @@
 
 ![Mario](https://edools-3-production.s3.amazonaws.com/org-6988%2Fschool-7227%2F937c3fc70b1a0b850d57a617a528a800%2Fpyramids.png "Mario")
 
-Este código em C, recria essas pirâmides (tem texto usando hashes, #, como tijolos), mas na altura que o usuário escolher.
+Este código em C, recria essas pirâmides (em texto, usando o caractere # como tijolos), mas na altura que o usuário escolher.
 
 Ex:
 
