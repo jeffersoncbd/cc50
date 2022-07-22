@@ -4,7 +4,7 @@
 
 ![Coins](https://edools-3-production.s3.amazonaws.com/org-6988%2Fschool-7227%2Fae4f7426439bdc0776e265b3f8b85045%2Fcoins.jpg)
 
-Este código implementa este algoritmo, onde é solicitado ao usuário um valor e ele retorna a a quantidade minima possível de moedas que é necessária para efetuar o troco.
+Este programa implementa o algoritmo, onde é solicitado ao usuário um valor e ele retorna a quantidade minima possível de moedas que é necessária para efetuar o troco.
 
 Ex.:
 ```txt
