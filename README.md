@@ -1,4 +1,4 @@
-# cs50
+# CC50
 Exercícios do curso CC50 (CS50 de Harvard)
 
 ---
